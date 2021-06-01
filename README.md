@@ -26,15 +26,27 @@ We record the following information of a YouTube video in order; they are divide
 
 
 video ID   : an 11-digit string, which is unique
+
 uploader   : a string of the video uploader's username
+
 age        : an integer number of days between the date when the video was uploaded and Feb.15,2007 (YouTube's establishment)
+
 category   : a string of the video category chosen by the uploader
+
 length     : an integer number of the video length
+
 views      : an integer number of the views
+
 rate       : a float number of the video rate
+
 ratings    : an integer number of the ratings
+
 comments   : an integer number of the comments
+
 related IDs: up to 20 strings of the related video IDs
+
+
+
 
 Datasets of User Information
 We have collected the information about YouTube users. The crawler retrieves information on the
@@ -43,12 +55,15 @@ million users. There is "user.txt", containing the information of number of uplo
 in order.
 
 
+
+
 Following MapReduce programs and its different design patterns like mentioned below are 
 implemented:
 1. Filtering
 2. Join Patterns
 3. Data Organization
 4. Summarization
+
 
 
 
