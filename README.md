@@ -10,18 +10,22 @@ University project for Advanced Hadoop MapReduce Programming (Engineering of Big
 
 •	Manifested Datawarehouse using Apache Hive 
 
-Problem Statement 
+Problem Statement :-
+
 Analyze the Youtube open source API Big dataset using Hadoop, Pig and HIVE based on different column 
 fields to provide various comprehensive insights
 
 
-Summary
+Summary :-
+
 The data-set used in this project is provided by Simon Fraser University. The data-set has five
 different files based on the data collected by the crawler.
 
 
 The dataset was available on the following Url:
+
 http://netsg.cs.sfu.ca/youtubedata/
+
 We record the following information of a YouTube video in order; they are divided by '\t' in the data file.
 
 
