@@ -92,6 +92,10 @@ Following Pig analysis is performed on the data-set : ( Implemented Visualizatio
 Following Hive analysis is performed on the data-set :
 1. Calculate top 10 channels with maximum number of likes
 2. Calculate top 5 categories with maximum number of comments
+
+
+
+
 Implemented Google Data Studio for Visualization purpose
 
 
